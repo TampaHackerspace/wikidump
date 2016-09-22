@@ -1,0 +1,32 @@
+Shop Bot
+
+== Tool Description: ==                                                         
+                                                                                
+                                                                                
+== Materials (what to use, and not use, it on): ==
+*  Wood
+*  Metals
+*  Other??
+                                                                                
+                                                                                
+== General and Special Safety Considerations: ==                                
+'''This is not an exhaustive list!                                              
+* '''Always wear safety glasses.'''                                             
+* '''Read, understand and follow all warning labels, instructions and safety manuals.'''
+* We are currently working to build a class, however, William Stillwell is offering 1:1 training when he is available ( Generally Open Make night is good, please coordinate with him a ahead of time, and have material ready )
+
+== Tool Use: ==                                                                 
+                                                                                
+                                                                                
+== Tips and Tricks: ==                                                          
+For those who are looking to buy Bits, Here are the current Recommended Bits to purchase for you "Tool Box"
+*  Whiteside UD2100 Spiral Cut Bit (Compression), .25 Diameter, .25 Shank, 1" Cut Length, 2.5" Overall Length -- Good For Wood and will give nice clean cut - Available via Woodcraft Special Order Item # 818489  $38.49
+*  Whiteside RD2100 Spircal Cut Bit (Down Cut), .25 Diameter, .25 Shank, 1" Cut Length, 2.5" Overall Length -- Good For Wood cuts downward pushing work against table - Available via Woodcraft Special Order Item # 812126  $20.99
+*  Whiteside SA2100 O-Flute Straight Router Bit, .25 Diameter, .25 Shank, 1" Cut Length, 3.5" Overall Length -- This is for Plastic - Available via Woodcraft Special Order Item # 405215  $27.99
+*  Whiteside is the best bits you can buy, they will last as long as you live, and you can pass them on to your children provided you take good care of them.
+
+
+== Related links: ==
+
+http://www.instructables.com/id/Cutting-1-inch-Acrylic/
+

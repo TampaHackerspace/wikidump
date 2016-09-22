@@ -1,0 +1,18 @@
+'''Tampa Hackerspace's Member's Documents'''
+
+* [[How Do I Become A Member and What Do I Do Next? | How Do I Become A Member and What Do I Do Next?]]
+
+== Organizational Documents ==
+
+* [https://drive.google.com/folderview?id=0BynqFD678bx2cnZJNWhGNlZkalk&usp=drive_web&tid=0BynqFD678bx2S19MTFEyUHhiU0U Agendas and Minutes for Member / Board Meetings]
+* [https://docs.google.com/document/d/1y_1sZYK6ttRyz0xq1DDTHsdxYKFISW9Jm0JQ-Qf17Uo/edit?pref=2&pli=1 Bylaws (as Inspiration Labs, our parent corporation)]
+* [https://docs.google.com/document/d/1GQjsuQh8Gvotvnm8BnqSxtD7vJzHZyMChUzyPzqxuJM/edit?pref=2&pli=1 Membership Agreement]
+* [http://wiki.hacdc.org/index.php/MIBS_Simplified_Rules_of_Coordinated_Consensus_through_Chaos MIBS Simplified Rules of Coordinated Consensus through Chaos (meeting procedure)]
+* [https://drive.google.com/open?id=0B1BiUKpVQf5nR3FycGdnUVJhZGs Manuals for Tools]
+
+== How To's ==
+* [[How To Steampunk | How to use Tampa Hackerspace to make Steampunk cosplay]]
+
+
+== Member's Individual Projects ==
+
